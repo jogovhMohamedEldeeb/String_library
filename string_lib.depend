@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1687039137 source:c:\users\momomomomomomomomomo\desktop\string_h\string_lib\string.c
+	"String.h"
+	<stdlib.h>
+
+1687039063 c:\users\momomomomomomomomomo\desktop\string_h\string_lib\string.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Types.h"
+
+1687039515 source:c:\users\momomomomomomomomomo\desktop\string_h\string_lib\main.c
+	<stdio.h>
+	<stdlib.h>
+	"String.h"
+
+1687037471 c:\users\momomomomomomomomomo\desktop\string_h\string_lib\types.h
+
+1688314744 source:c:\users\m7md\desktop\string_h\string_lib\string.c
+	"String.h"
+
+1688314744 c:\users\m7md\desktop\string_h\string_lib\string.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Types.h"
+	<locale.h>
+
+1687037471 c:\users\m7md\desktop\string_h\string_lib\types.h
+
+1688314310 source:c:\users\m7md\desktop\string_h\string_lib\main.c
+	<stdio.h>
+	<stdlib.h>
+	"String.h"
+	<string.h>
+
+1688320345 source:c:\users\m7md\desktop\cv\string_h\string_lib\main.c
+	<stdio.h>
+	<stdlib.h>
+	"String.h"
+	<string.h>
+
+1690757093 c:\users\m7md\desktop\cv\string_h\string_lib\string.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Types.h"
+	<locale.h>
+
+1687037471 c:\users\m7md\desktop\cv\string_h\string_lib\types.h
+
+1690757163 source:c:\users\m7md\desktop\cv\string_h\string_lib\string.c
+	"String.h"
+
